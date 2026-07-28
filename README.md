@@ -1,4 +1,4 @@
-<!-- ANIMATED TYPING HEADER (USES VERCEL - WON'T BE BLOCKED) -->
+<!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vikaash;AIML+Student;Building+Intelligent+Systems" alt="Typing Animation" />
 </p>
@@ -14,18 +14,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-<!-- YOUR STATS CARDS (Side by Side) -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vikaash19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaash19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-    </td>
-  </tr>
-</table>
-
 <!-- SOCIAL MEDIA BADGES (Replace YOUR_USERNAME with your actual links) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
@@ -39,10 +27,10 @@
   </a>
 </p>
 
-<!-- FIXED SNAKE (USING RAW URL - NO MORE BROKEN ICON) -->
+<!-- ANIMATED SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vikaash19/Vikaash19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<!-- FIXED 3D GRAPH (USING RAW URL - NO MORE BROKEN ICON) -->
+<!-- 3D CONTRIBUTION GRAPH -->
 <img src="https://raw.githubusercontent.com/Vikaash19/Vikaash19/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
