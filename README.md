@@ -1,22 +1,34 @@
-<!-- ANIMATED TYPING HEADER (Clean URL - No Emojis in the link) -->
+<!-- 100% SELF-CONTAINED ANIMATED HEADER (NO EXTERNAL IMAGES - NEVER BREAKS) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vikaash;AIML+Student;Building+Intelligent+Systems" alt="Typing Animation" />
-</p>
+  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#0D1117" rx="15"/>
+    
+    <!-- Main Title with Pulsing Neon Glow -->
+    <text x="400" y="55" font-family="Fira Code, monospace" font-size="34" font-weight="bold" fill="#F75C7E" text-anchor="middle" filter="url(#glow)">
+      Hey, I'm Vikaash!
+      <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Subtitle with Pulsing Cyan -->
+    <text x="400" y="85" font-family="Fira Code, monospace" font-size="18" fill="#00FFAA" text-anchor="middle" letter-spacing="2">
+      🚀 AIML Student | AI Enthusiast | Building Intelligent Systems 🧠
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    </text>
 
-<!-- 
-  ⚠️ IF THE ANIMATED HEADER ABOVE SHOWS A BROKEN ICON:
-  1. Hard refresh your browser (Ctrl+Shift+R on Windows / Cmd+Shift+R on Mac).
-  2. Wait 2 minutes (the free server might be temporarily down).
-  3. If it still doesn't work, uncomment the line below (delete the <!-- and -->) 
-     and comment out the <img> line above. This static version NEVER breaks.
--->
-
-<!-- 
-<p align="center">
-  <h1 align="center">Hey, I'm Vikaash! 👋</h1>
-  <h3 align="center">🚀 AIML Student | AI Enthusiast | Building Intelligent Systems 🧠</h3>
+    <!-- Glow Filter Definition -->
+    <defs>
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="4" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+  </svg>
 </p>
--->
 
 <!-- YOUR FLASHY STATS CARDS (Side by Side) -->
 <table align="center">
@@ -41,7 +53,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-<!-- SOCIAL MEDIA BADGES (Replace YOUR_USERNAME with your actual links) -->
+<!-- SOCIAL MEDIA BADGES (Replace YOUR_USERNAME) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
