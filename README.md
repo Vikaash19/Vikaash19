@@ -1,46 +1,12 @@
-<!-- 100% SELF-CONTAINED ANIMATED HEADER (NO EXTERNAL IMAGES - NEVER BREAKS) -->
+<!-- FLASHY WAVING BANNER (HOSTED ON VERCEL - NEVER BREAKS) -->
 <p align="center">
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="100%" height="100%" fill="#0D1117" rx="15"/>
-    
-    <!-- Main Title with Pulsing Neon Glow -->
-    <text x="400" y="55" font-family="Fira Code, monospace" font-size="34" font-weight="bold" fill="#F75C7E" text-anchor="middle" filter="url(#glow)">
-      Hey, I'm Vikaash!
-      <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
-    </text>
-    
-    <!-- Subtitle with Pulsing Cyan -->
-    <text x="400" y="85" font-family="Fira Code, monospace" font-size="18" fill="#00FFAA" text-anchor="middle" letter-spacing="2">
-      🚀 AIML Student | AI Enthusiast | Building Intelligent Systems 🧠
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
-    </text>
-
-    <!-- Glow Filter Definition -->
-    <defs>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="4" result="blur" />
-        <feMerge>
-          <feMergeNode in="blur" />
-          <feMergeNode in="blur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Vikaash&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=twinkling" alt="Banner" />
 </p>
 
-<!-- YOUR FLASHY STATS CARDS (Side by Side) -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vikaash19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaash19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-    </td>
-  </tr>
-</table>
+<!-- AIML STUDENT SUBTITLE -->
+<h3 align="center">
+  🚀 AIML Student | AI Enthusiast | Building Intelligent Systems 🧠
+</h3>
 
 <!-- AIML TECH STACK BADGES -->
 <p align="center">
@@ -53,7 +19,19 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-<!-- SOCIAL MEDIA BADGES (Replace YOUR_USERNAME) -->
+<!-- YOUR STATS CARDS (Side by Side) -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vikaash19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaash19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<!-- SOCIAL MEDIA BADGES (Replace YOUR_USERNAME with your actual links) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
