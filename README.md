@@ -1,12 +1,7 @@
-<!-- FLASHY WAVING BANNER (HOSTED ON VERCEL - NEVER BREAKS) -->
+<!-- ANIMATED TYPING HEADER (USES VERCEL - WON'T BE BLOCKED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Vikaash&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=twinkling" alt="Banner" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vikaash;AIML+Student;Building+Intelligent+Systems" alt="Typing Animation" />
 </p>
-
-<!-- AIML STUDENT SUBTITLE -->
-<h3 align="center">
-  🚀 AIML Student | AI Enthusiast | Building Intelligent Systems 🧠
-</h3>
 
 <!-- AIML TECH STACK BADGES -->
 <p align="center">
@@ -44,10 +39,10 @@
   </a>
 </p>
 
-<!-- THE ANIMATED SNAKE (Eats your contributions daily) -->
+<!-- FIXED SNAKE (USING RAW URL - NO MORE BROKEN ICON) -->
 <p align="center">
-  <img src="https://github.com/Vikaash19/Vikaash19/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Vikaash19/Vikaash19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<!-- THE 3D CONTRIBUTION GRAPH -->
-<img src="https://github.com/Vikaash19/Vikaash19/blob/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+<!-- FIXED 3D GRAPH (USING RAW URL - NO MORE BROKEN ICON) -->
+<img src="https://raw.githubusercontent.com/Vikaash19/Vikaash19/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
