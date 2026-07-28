@@ -1,6 +1,6 @@
-<!-- ANIMATED TYPING HEADER -->
+<!-- ANIMATED TYPING HEADER - AIML VERSION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vikaash;Welcome+to+my+Digital+Universe+%F0%9F%9A%80;Full-Stack+Developer;Building+the+Future+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vikaash19;Welcome+to+my+Digital+Universe+%F0%9F%9A%80;AIML+Student+%26+AI+Enthusiast;Building+Intelligent+Systems+%F0%9F%A7%A0;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
 </p>
 
 <!-- YOUR FLASHY STATS CARDS (Side by Side) -->
