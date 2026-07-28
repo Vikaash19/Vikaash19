@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- ANIMATED TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vikaash19;Welcome+to+my+Digital+Universe+%F0%9F%9A%80;Full-Stack+Developer;Building+the+Future+Everyday" alt="Typing SVG" />
+</p>
 
-<!--
-**Vikaash19/Vikaash19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- YOUR FLASHY STATS CARDS (Side by Side) -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vikaash19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaash19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<!-- THE ANIMATED SNAKE (Eats your contributions) -->
+<p align="center">
+  <img src="https://github.com/Vikaash19/Vikaash19/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- YOUR 3D CONTRIBUTION GRAPH -->
+<img src="https://github.com/Vikaash19/Vikaash19/blob/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
